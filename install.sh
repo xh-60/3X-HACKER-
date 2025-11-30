@@ -112,13 +112,13 @@ echo
 echo
 type_effect "[ CODEX STARTED]" 0.04
 sleep 0.2
-type_effect "「HELLO DEAR USER I•M DX-SIMU 」" 0.08
+type_effect "「HELLO DEAR USER I•M 3X HACKER 」" 0.08
 sleep 0.5
-type_effect "【CODEX WILL PROTECT YOU】" 0.08
+type_effect "【3X HACKER WILL BE PROTECT YOU】" 0.08
 sleep 0.7
-type_effect "<GOODBYE>" 0.08
+type_effect "<WELCOME 3X FAMILY USER>" 0.08
 sleep 0.2
-type_effect "[ENJOY OUR CODEX]" 0.08
+type_effect "[YOUR FRIEND 3X HACKER]" 0.08
 sleep 0.5
 type_effect "!...............¡" 0.08
 echo
@@ -126,7 +126,7 @@ sleep 2
 clear 
 }
 start
-mkdir -p .Codex-simu
+mkdir -p .3x-hacker
 tr() {
 # Check if curl is installed
 if command -v curl &>/dev/null; then
@@ -361,28 +361,28 @@ donotchange() {
 banner() {
 echo
 echo
-echo -e "   ${y}░█████╗░░█████╗░██████╗░███████╗██╗░░██╗"
-echo -e "   ${y}██╔══██╗██╔══██╗██╔══██╗██╔════╝╚██╗██╔╝"
-echo -e "   ${y}██║░░╚═╝██║░░██║██║░░██║█████╗░░░╚███╔╝░"
-echo -e "   ${c}██║░░██╗██║░░██║██║░░██║██╔══╝░░░██╔██╗░"
-echo -e "   ${c}╚█████╔╝╚█████╔╝██████╔╝███████╗██╔╝╚██╗"
-echo -e "   ${c}░╚════╝░░╚════╝░╚═════╝░╚══════╝╚═╝░░╚═╝${n}"
+echo -e "   ${y}"
+echo -e "   ${y}
+echo -e "   ${y}
+echo -e "   ${c}░"
+echo -e "   ${c}
+echo -e "   ${c}${n}"
 echo -e "${y}               +-+-+-+-+-+-+-+-+"
-echo -e "${c}               |D|S|-|C|O|D|E|X|"
+echo -e "${c}               |3|X|-|H|A|C|K|E|R|"
 echo -e "${y}               +-+-+-+-+-+-+-+-+${n}"
 echo
  if [ $random_number -eq 0 ]; then
 echo -e "${b}╭════════════════════════⊷"
-echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/Termuxcodex"
+echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/xhacker60"
 echo -e "${b}╰════════════════════════⊷"
         else
 echo -e "${b}╭══════════════════════════⊷"
-echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/alphacodex369"
+echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/xhacker60"
 echo -e "${b}╰══════════════════════════⊷"
         fi
 echo
-echo -e "${b}╭══ ${g}〄 ${y}ᴄᴏᴅᴇx ${g}〄"
-echo -e "${b}┃❁ ${g}ᴄʀᴇᴀᴛᴏʀ: ${y}ᴅx-ᴄᴏᴅᴇx"
+echo -e "${b}╭══ ${g}3X${y}X HACKER ${g}〄"
+echo -e "${b}┃❁ ${g}ᴄʀᴇᴀᴛᴏʀ: ${y}3X-HACKER"
 echo -e "${b}┃❁ ${g}ᴅᴇᴠɪᴄᴇ: ${y}${VENDOR} ${MODEL}"
 echo -e "${b}╰┈➤ ${g}Hey ${y}Dear"
 echo
@@ -447,28 +447,23 @@ echo -e " ${A} ${g} Wait for the next update using Linux...!¡"
 banner2() {
 echo
 echo
-echo -e "   ${y}░█████╗░░█████╗░██████╗░███████╗██╗░░██╗"
-echo -e "   ${y}██╔══██╗██╔══██╗██╔══██╗██╔════╝╚██╗██╔╝"
-echo -e "   ${y}██║░░╚═╝██║░░██║██║░░██║█████╗░░░╚███╔╝░"
-echo -e "   ${c}██║░░██╗██║░░██║██║░░██║██╔══╝░░░██╔██╗░"
-echo -e "   ${c}╚█████╔╝╚█████╔╝██████╔╝███████╗██╔╝╚██╗"
-echo -e "   ${c}░╚════╝░░╚════╝░╚═════╝░╚══════╝╚═╝░░╚═╝${n}"
+echo -e "   ${y}"
 echo -e "${y}               +-+-+-+-+-+-+-+-+"
-echo -e "${c}               |D|S|-|C|O|D|E|X|"
+echo -e "${c}               |3|X|-|H|A|C|K|E|R|"
 echo -e "${y}               +-+-+-+-+-+-+-+-+${n}"
 echo
  if [ $random_number -eq 0 ]; then
 echo -e "${b}╭════════════════════════⊷"
-echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/Termuxcodex"
+echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/xhacker60"
 echo -e "${b}╰════════════════════════⊷"
         else
 echo -e "${b}╭══════════════════════════⊷"
-echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/alphacodex369"
+echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/xhacker60"
 echo -e "${b}╰══════════════════════════⊷"
         fi
 echo
-echo -e "${b}╭══ ${g}〄 ${y}ᴄᴏᴅᴇx ${g}〄"
-echo -e "${b}┃❁ ${g}ᴄʀᴇᴀᴛᴏʀ: ${y}ᴅx-ᴄᴏᴅᴇx"
+echo -e "${b}╭══ ${g}3X ${y}HACKER${g}〄"
+echo -e "${b}┃❁ ${g}ᴄʀᴇᴀᴛᴏʀ: ${y}3X HACKER"
 echo -e "${b}╰┈➤ ${g}Hey ${y}Dear"
 echo
 echo -e "${c}╭════════════════════════════════════════════════⊷"
@@ -476,7 +471,7 @@ echo -e "${c}┃ ${p}❏ ${g}Choose what you want to use. then Click Enter${n}"
 echo -e "${c}╰════════════════════════════════════════════════⊷"
 
 }
-options=("Free Usage" "Premium")
+options=("Free Usage" "DO NOT SELECT")
 selected=0
 display_menu() {
     clear
@@ -526,7 +521,7 @@ while true; do
             "Premium")
                 echo -e "\n ${g}[${n}${HOST}${g}] ${c}Wait for opening Telegram..!${n}"
                 sleep 1
-                xdg-open "https://t.me/Codexownerbot"
+                xdg-open "t.me/xhacker60"
                 cd "$HOME"
             	rm -rf CODEX
                 exit 0

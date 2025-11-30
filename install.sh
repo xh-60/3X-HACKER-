@@ -110,7 +110,7 @@ n=$NC
 echo
 echo
 echo
-type_effect "[ CODEX STARTED]" 0.04
+type_effect "[ 3X HACKER THEME STARTED]" 0.04
 sleep 0.2
 type_effect "「HELLO DEAR USER I•M 3X HACKER 」" 0.08
 sleep 0.5
@@ -269,7 +269,7 @@ clear
 clear
 echo
 echo -e "               ${g}╔═══════════════╗"
-echo -e "               ${g}║ ${n}</>  ${c}CODEX-X${g}  ║"
+echo -e "               ${g}║ ${n}</>  ${c}3X-HACKER${g}  ║"
 echo -e "               ${g}╚═══════════════╝"
 echo -e "  ${g}╔════════════════════════════════════════════╗"
 echo -e "  ${g}║  ${C} ${y}Checking Your Internet Connection¡${g}  ║"
@@ -361,12 +361,12 @@ donotchange() {
 banner() {
 echo
 echo
-echo -e "   ${y}"
-echo -e "   ${y}
-echo -e "   ${y}
-echo -e "   ${c}░"
-echo -e "   ${c}
-echo -e "   ${c}${n}"
+echo -e "   
+echo -e "   
+echo -e "  
+echo -e "   
+echo -e "   
+echo -e 
 echo -e "${y}               +-+-+-+-+-+-+-+-+"
 echo -e "${c}               |3|X|-|H|A|C|K|E|R|"
 echo -e "${y}               +-+-+-+-+-+-+-+-+${n}"
